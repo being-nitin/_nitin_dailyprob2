@@ -40,3 +40,6 @@ class Car{
         System.out.println("the cost of "+manufacturer+ " is "+price+" which is the most expensive");
     }
     }
+
+    // this will help you in printing the prices in sorted form
+// in a result the output wil be in sorted form and the details will get printed in descending order
