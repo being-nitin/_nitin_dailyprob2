@@ -1,4 +1,4 @@
-package com.nitincodes;
+ package com.nitincodes;
 
 public class Main {
     /* create a class having properties manufacturer and price. create three instances of the class and display
@@ -43,3 +43,4 @@ class Car{
 
     // this will help you in printing the prices in sorted form
 // in a result the output wil be in sorted form and the details will get printed in descending order
+// will print the details of the car in descending order:
